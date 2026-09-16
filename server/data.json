@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": "demo-citizen",
+      "name": "Demo Citizen",
+      "email": "citizen@streetwise.demo",
+      "password": "$2a$10$d/GA6baT/cPp.APSjFMcLu1LLLCKixKLEEbhGkKD8sS7CMc0PBRUK",
+      "role": "citizen",
+      "phone": "9876543210",
+      "area": "Meerut",
+      "createdAt": "2026-09-16T16:09:26.599Z"
+    },
+    {
+      "id": "demo-authority",
+      "name": "Municipal Authority",
+      "email": "authority@streetwise.demo",
+      "password": "$2a$10$d/GA6baT/cPp.APSjFMcLu1LLLCKixKLEEbhGkKD8sS7CMc0PBRUK",
+      "role": "authority",
+      "phone": "9876543211",
+      "area": "Meerut",
+      "createdAt": "2026-09-16T16:09:26.599Z"
+    },
+    {
+      "id": "demo-admin",
+      "name": "StreetWise Admin",
+      "email": "admin@streetwise.demo",
+      "password": "$2a$10$d/GA6baT/cPp.APSjFMcLu1LLLCKixKLEEbhGkKD8sS7CMc0PBRUK",
+      "role": "admin",
+      "phone": "9876543212",
+      "area": "Meerut",
+      "createdAt": "2026-09-16T16:09:26.599Z"
+    },
+    {
+      "id": "vtim4p74",
+      "name": "Saianshi Saxena",
+      "email": "ae@gmail.com",
+      "phone": "08795942299",
+      "area": "",
+      "role": "citizen",
+      "password": "$2a$10$6DwYX9MYpxcGTFqcsSUVOuMs.gONmtnoSM3mW0dTSjjxuavmruTl.",
+      "createdAt": "2026-09-16T16:19:51.211Z"
+    }
+  ],
+  "complaints": [],
+  "notifications": []
+}
